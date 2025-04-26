@@ -1,2 +1,3 @@
 # SUGIRS
-System User Graphical Interface &amp; Remote Scheduling
+
+System User Graphical Interface and Remote Scheduling
