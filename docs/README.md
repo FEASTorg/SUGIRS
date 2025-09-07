@@ -1,3 +1,3 @@
-# SUGIRS
+# Docs
 
-System User Graphical Interface and Remote Scheduling
+This is where the docs are kept!
