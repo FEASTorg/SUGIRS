@@ -1,3 +1,3 @@
-# [SUGIRS](https://feastorg.github.io/SUGIRS/)
+# [SUGIRS](https://feastorg.github.io/projects/sugirs/)
 
 System User Graphical Interface and Remote Scheduling
